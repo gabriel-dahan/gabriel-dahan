@@ -2,7 +2,9 @@
 
 [![Website](https://img.shields.io/website?label=gabrieldahan.me&style=for-the-badge&url=https%3A%2F%2Fgabrieldahan.me)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/TheGabDooSan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgabriel-dahan&screen_name=TheGabDooSan)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-dahan&layout=compact&langs_count=10)]
+
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-dahan&layout=compact&langs_count=10)
 
 ## I'm a French young developer...
 
