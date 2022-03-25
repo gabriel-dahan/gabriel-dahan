@@ -5,6 +5,7 @@
 
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-dahan&layout=compact&langs_count=10)
+<img src="https://github-readme-stats.vercel.app/api?username=gabriel-dahan&show_icons=true&theme=gotham" alt="gabriel-dahan" />
 
 ## I'm a French young developer...
 
