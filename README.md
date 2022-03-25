@@ -9,9 +9,9 @@
 ## I'm a French young developer...
 
 - I'm currently training by developing websites & small projects like [this](https://github.com/gabriel-dahan/py-gameoflife).
-- I know python and I'm learning C.
-- 2021-22 goal : Know as much as I can about cryptos !
-- I launched my own [NFT collection](https://opensea.io/assets/anime-cryptocards).
+- I know python and I'm learning C/C++(SFML).
+- 2022-23 goal : Game project w/ C++ & SFML !
+- [NFT collection](https://opensea.io/assets/anime-cryptocards) (Paused).
 
 ### Connect with me:
 
