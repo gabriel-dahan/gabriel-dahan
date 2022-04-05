@@ -1,43 +1,3 @@
-<<<<<<< HEAD
-### Hi there, I'm [Gabriel D.][website] !
-
-[![Website](https://img.shields.io/website?label=gabrieldahan.me&style=for-the-badge&url=https%3A%2F%2Fgabrieldahan.me)][website]
-[![Twitter Follow](https://img.shields.io/twitter/follow/TheGabDooSan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgabriel-dahan&screen_name=TheGabDooSan)
-
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-dahan&layout=compact&langs_count=10)
-
-## I'm a French young developer...
-
-- I'm currently training by developing websites & small projects like [this](https://github.com/gabriel-dahan/py-gameoflife).
-- I know python and I'm learning C.
-- 2021-22 goal : Know as much as I can about cryptos !
-- I launched my own [NFT collection](https://opensea.io/assets/anime-cryptocards).
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/TheGabDooSan)
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />](https://discord.gg/Zq8d74WX)
-
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
-
----
-
-[website]: https://gabrieldahan.me/
 =======
 ### Hi there, I'm [Gabriel D.][website] !
 
@@ -80,4 +40,3 @@
 ---
 
 [website]: https://gabrieldahan.me/
->>>>>>> aa3e586f361e735e6a0b5b3644844e3c15f2ff93
