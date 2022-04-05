@@ -1,4 +1,3 @@
-=======
 ### Hi there, I'm [Gabriel D.][website] !
 
 [![Website](https://img.shields.io/website?label=gabrieldahan.me&style=for-the-badge&url=https%3A%2F%2Fgabrieldahan.me)][website]
