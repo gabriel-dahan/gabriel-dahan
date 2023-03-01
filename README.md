@@ -10,16 +10,16 @@
 
 ## I'm a French young developer...
 
+- Trying to grow a french math discord community ([here](https://discord.gg/UDC5g2YmsY)), and its bot : [MathBot](https://github.com/gabriel-dahan/mathbot).
 - I'm currently training by developing websites & small projects like [this](https://github.com/gabriel-dahan/py-gameoflife).
-- I know python and I'm learning C/C++(SFML).
-- 2022-23 goal : Game project w/ C++ & SFML !
-- [NFT collection](https://opensea.io/assets/anime-cryptocards) (Paused).
+- I'm working on an online ConnectFour game ([here](https://github.com/gabriel-dahan/connect4-game))
+- Python <3
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" color="white" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/TheGabDooSan)
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />](https://discord.gg/Zq8d74WX)
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />](https://discord.gg/UDC5g2YmsY)
 
 <br />
 
