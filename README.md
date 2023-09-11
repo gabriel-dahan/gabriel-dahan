@@ -10,10 +10,8 @@
 
 ## I'm a French young developer...
 
-- Trying to grow a french math discord community ([here](https://discord.gg/UDC5g2YmsY)), and its bot : [MathBot](https://github.com/gabriel-dahan/mathbot).
 - I'm currently training by developing websites & small projects like [this](https://github.com/gabriel-dahan/py-gameoflife).
-- I'm working on an online ConnectFour game ([here](https://github.com/gabriel-dahan/connect4-game))
-- Python <3
+- I'm working on an online ConnectFour game ([here](https://github.com/gabriel-dahan/connect4-game)) \[PAUSED]
 
 ### Connect with me:
 
