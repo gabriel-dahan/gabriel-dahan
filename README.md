@@ -36,4 +36,4 @@
 
 ---
 
-[website]: https://gabrieldahan.me/
+[website]: https://pages.gabrieldahan.me/
