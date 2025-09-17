@@ -10,8 +10,8 @@
 
 ## I'm a French young developer...
 
-- I'm currently training by developing websites & small projects like [this](https://github.com/gabriel-dahan/py-gameoflife).
-- I'm working on an online ConnectFour game ([here](https://github.com/gabriel-dahan/connect4-game)) \[PAUSED]
+- **COMX** : A comics/manga reading platform featuring AI-driven translations (OCR).
+- **VaderMap** : A private mapping system for Invader's artworks.
 
 ### Connect with me:
 
