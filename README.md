@@ -8,7 +8,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=gabriel-dahan&show_icons=true&theme=gotham" alt="gabriel-dahan" />
 
-## I'm a French young developer...
+## I'm a French developer...
 
 - **COMX** : A comics/manga reading platform featuring AI-driven translations (OCR).
 - **VaderMap** : A private mapping system for Invader's artworks.
