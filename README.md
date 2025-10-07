@@ -4,9 +4,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/TheGabDooSan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgabriel-dahan&screen_name=TheGabDooSan)
 
 
-<div style="display: flex; width: 100%; gap: 20px">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-dahan&layout=compact&langs_count=10&hide=jupyter%20notebook,html" alt="gabriel-dahan" />
-    <img src="https://github-readme-stats.vercel.app/api?username=gabriel-dahan&show_icons=true" alt="gabriel-dahan" />
+<div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-dahan&layout=compact&langs_count=10&hide=jupyter%20notebook,html" alt="gabriel-dahan-languages" height="200px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=gabriel-dahan&show_icons=true" alt="gabriel-dahan-score" height="200px" />
 </div>
 
 ## I'm a French student and developer...
