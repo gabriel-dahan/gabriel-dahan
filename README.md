@@ -2,16 +2,18 @@
 
 [![Website](https://img.shields.io/website?label=pages.gabrieldahan.me&style=for-the-badge&url=https%3A%2F%2Fgabrieldahan.me)][website]
 
-
 <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-dahan&layout=compact&langs_count=10&hide=jupyter%20notebook,html" alt="gabriel-dahan-languages" height="200px" />
-    <img src="https://github-readme-stats.vercel.app/api?username=gabriel-dahan&show_icons=true" alt="gabriel-dahan-score" height="200px" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabriel-dahan&theme=github_dark" alt="gabriel-dahan-languages" height="200px" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabriel-dahan&theme=github_dark" alt="gabriel-dahan-stats" height="200px" />
 </div>
 
-## I'm a French student and developer...
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabriel-dahan&theme=github_dark)
 
-- **COMX** : A comics/manga reading platform featuring AI-driven translations (OCR).
-- **VaderMap** : A private mapping system for Invader's artworks.
+## I'm a French student and developer and here are a few of my projects...
+
+- **BloomScape**: A game simulating a market economy made of flowers, with a RPG-like dimension (under [development](https://github.com/gabriel-dahan/bloomscape)).
+- **VaderMap**: A private mapping system for Invader's artworks (see [here](https://github.com/gabriel-dahan/vadermap)).
+- **COMX** (PAUSED): A comics/manga reading platform featuring AI-driven translations (OCR) (see [here](https://github.com/gabriel-dahan/comx-app)).
 
 <br />
 
