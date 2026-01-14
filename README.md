@@ -15,6 +15,8 @@
 - **VaderMap**: A private mapping system for Invader's artworks (see [here](https://github.com/gabriel-dahan/vadermap)).
 - **COMX** (PAUSED): A comics/manga reading platform featuring AI-driven translations (OCR) (see [here](https://github.com/gabriel-dahan/comx-app)).
 
+Find more projects on my [Projects](https://pages.gabrieldahan.me/projects) page !
+
 <br />
 
 ### Languages and Tools:
