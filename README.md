@@ -11,9 +11,9 @@
 
 ## I'm a French student and developer and here are a few of my projects...
 
-- **BloomScape**: A game simulating a market economy made of flowers, with a RPG-like dimension (under [development](https://github.com/gabriel-dahan/bloomscape)).
-- **VaderMap**: A private mapping system for Invader's artworks (see [here](https://github.com/gabriel-dahan/vadermap)).
-- **COMX** (PAUSED): A comics/manga reading platform featuring AI-driven translations (OCR) (see [here](https://github.com/gabriel-dahan/comx-app)).
+- **COMX** (IN DEV): A comics/manga reading platform featuring many new features compared to mainstream comics websites like Webtoon, Tapas with a small creator-oriented approch and gamification systems (see the [website](https://comx.click/)).
+- **BloomScape** (PAUSED -> **COMX**): A game simulating a market economy made of flowers, with a RPG-like dimension (under development, [repo](https://github.com/gabriel-dahan/bloomscape)).
+- **VaderMap**: A private mapping system for Invader's artworks (see [repo](https://github.com/gabriel-dahan/vadermap)).
 
 Find more projects on my [Projects](https://pages.gabrieldahan.me/projects) page !
 
