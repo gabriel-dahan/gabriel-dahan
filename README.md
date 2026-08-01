@@ -28,7 +28,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=7DD3FC&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=80&lines=Building+COMX+%F0%9F%93%96;Comics+%2B+creators+%2B+gamification;TypeScript+%C2%B7+Vue+%C2%B7+Python+%C2%B7+OCaml"
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=7DD3FC&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=80&lines=Building+COMX+%F0%9F%93%96;Comics+%2B+creators+%2B+gamification"
       alt="Typing intro"
     />
   </a>
