@@ -19,7 +19,7 @@
   </a>
   &nbsp;
   <a href="https://comx.click">
-    <img src="https://img.shields.io/badge/COMX-Live-ff4d6d?style=for-the-badge&logo=webtoon&logoColor=white&labelColor=0B1220" alt="COMX" />
+    <img src="https://img.shields.io/badge/COMX-Live-ff4d6d?style=for-the-badge&labelColor=0B1220" alt="COMX" />
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=gabriel-dahan&style=for-the-badge&color=3D8BFF&label=PROFILE+VIEWS" alt="Profile views" />
