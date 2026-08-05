@@ -118,10 +118,6 @@ Right now my main focus is **[COMX](https://comx.click/)**: a comics / manga pla
 </p>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/gabriel-dahan?template=classic&base=header%2C%20activity%2C%20community&config.timezone=Europe%2FParis" alt="Metrics" width="100%" />
-</p>
-
-<p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=gabriel-dahan&bg_color=0b1220&color=7dd3fc&line=3d8bff&point=ff4d6d&area=true&hide_border=true"
     alt="Contribution activity graph"
