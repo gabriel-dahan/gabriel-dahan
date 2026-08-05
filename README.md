@@ -95,37 +95,30 @@ Right now my main focus is **[COMX](https://comx.click/)**: a comics / manga pla
 
 ## GitHub pulse
 
+<!-- Combined GitHub Overview & Stats Card -->
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=gabriel-dahan&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"
-    alt="GitHub trophies"
+  <img 
+    height="165" 
+    src="https://github-readme-stats.vercel.app/api?username=gabriel-dahan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=7DD3FC&icon_color=3D8BFF&text_color=E8F1FF" 
+    alt="GitHub stats" 
+  />
+  <img 
+    height="165" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-dahan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=7DD3FC&text_color=E8F1FF&hide=html,css" 
+    alt="Top languages" 
   />
 </p>
 
 <p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=gabriel-dahan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=7DD3FC&icon_color=3D8BFF&text_color=E8F1FF&ring_color=3D8BFF"
-    alt="GitHub stats"
-  />
-  <img
-    height="165"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel-dahan&theme=tokyonight&hide_border=true&background=0B1220&ring=3D8BFF&fire=FF4D6D&currStreakLabel=7DD3FC"
-    alt="GitHub streak"
+  <img 
+    height="165" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=gabriel-dahan&theme=tokyonight&hide_border=true&background=0B1220&ring=3D8BFF&fire=FF4D6D&currStreakLabel=7DD3FC" 
+    alt="GitHub streak" 
   />
 </p>
 
 <p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-dahan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=7DD3FC&text_color=E8F1FF"
-    alt="Top languages"
-  />
-  <img
-    height="165"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gabriel-dahan&theme=github_dark"
-    alt="Productive time"
-  />
+  <img src="https://metrics.lecoq.io/gabriel-dahan?template=classic&base=header%2C%20activity%2C%20community&config.timezone=Europe%2FParis" alt="Metrics" width="100%" />
 </p>
 
 <p align="center">
